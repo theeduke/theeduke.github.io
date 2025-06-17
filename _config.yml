@@ -68,8 +68,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   # bio    : "Software Engineer. Passionate about solving complex problems and building efficient solutions."
   bio: |
-  Software Engineer.
-  Passionate about solving complex problems and building efficient solutions.
+    Software Engineer.
+    Passionate about solving complex problems and building efficient solutions.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
