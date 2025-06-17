@@ -56,11 +56,20 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-feed
+
+# for medium
+remote_feed:
+  url: "https://medium.com/feed/@your-medium-username"  # Replace with your Medium username
+  limit: 5
 
 author:
   name   : "Ian Nderitu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer."
+  # bio    : "Software Engineer. Passionate about solving complex problems and building efficient solutions."
+  bio: |
+  Software Engineer.
+  Passionate about solving complex problems and building efficient solutions.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,43 +82,66 @@ author:
       url: "https://github.com/theeduke"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/oscar-ian/
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:oscarian528@gmail.com"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/theeduke"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/oscar-ian/"
 
 defaults:
-  # _posts
-  - scope:
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # _pages
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+    - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
-      layout: single
+      layout: "splash"
+      author_profile: true
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "single"
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
