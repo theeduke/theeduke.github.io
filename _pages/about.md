@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 layout: splash
+author_profile: true
 ---
 About Me
 I'm Ian Oscar, a Junior Software Engineer based in Bungoma, Kenya. With a Bachelor’s degree in Computer Science from the Catholic University of Eastern Africa, I specialize in backend development, RESTful APIs, and Python-based frameworks like Django and Flask. My experience includes internships at Candlesticks Investments Ltd and Legal Tech Kenya, where I honed my skills in API development, testing, and technical documentation.
