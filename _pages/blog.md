@@ -2,6 +2,7 @@
 title: Blog
 permalink: /blog/
 layout: splash
+author_profile: true
 ---
 Blog
 My latest thoughts and insights on software development, backend engineering, and technology trends. Posts are sourced from my Medium blog. 
