@@ -1,8 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+layout: splash
 ---
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+About Me
+I'm Ian Oscar, a Junior Software Engineer based in Bungoma, Kenya. With a Bachelor’s degree in Computer Science from the Catholic University of Eastern Africa, I specialize in backend development, RESTful APIs, and Python-based frameworks like Django and Flask. My experience includes internships at Candlesticks Investments Ltd and Legal Tech Kenya, where I honed my skills in API development, testing, and technical documentation.
+I’m passionate about solving complex problems, collaborating in teams, and continuously learning new technologies. My technical expertise includes Python, JavaScript, C, Linux/Unix systems, and database management. I’m also proficient in creating engaging presentations and communicating technical concepts to diverse audiences.
+Check out my GitHub for projects and contributions, or connect with me on LinkedIn.
