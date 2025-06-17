@@ -2,6 +2,7 @@
 title: Projects 
 permalink: /projects/ 
 layout: splash
+author_profile: true
 ---
 Carpooling Webapp
 A web application for ride-sharing in Nairobi, built with React, Django, and Google Maps API. Features include secure authentication, real-time ride search, and in-app payments.
