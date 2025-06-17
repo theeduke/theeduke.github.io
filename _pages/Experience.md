@@ -1,9 +1,9 @@
 
---------------
+---
 title: Experience
 permalink: /experience/
 layout: splash
----------------
+---
 Professional Experience
 Candlesticks Investments Ltd, Nairobi
 Software Development InternApril 2024 - November 2024
