@@ -2,6 +2,7 @@
 title: Experience
 permalink: /experience/
 layout: splash
+author_profile: true
 ---
 Professional Experience
 Candlesticks Investments Ltd, Nairobi
