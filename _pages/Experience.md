@@ -17,6 +17,7 @@ Junior Software DeveloperJanuary 2024 - March 2024
 Performed testing and debugging for new software in development.
 Documented technical specifications and user guides for software projects.
 
+
 HNG Internship
 Backend Developer
 
