@@ -118,7 +118,7 @@ defaults:
   #   values:
   #     layout: single
   #     author_profile: true
-    - scope:
+  - scope:
       path: ""
       type: "pages"
     values:
