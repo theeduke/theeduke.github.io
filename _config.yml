@@ -60,7 +60,7 @@ plugins:
 
 # for medium
 remote_feed:
-  url: "https://medium.com/feed/@your-medium-username"  # Replace with your Medium username
+  url: "https://medium.com/feed/@oscarian528"  # Replace with your Medium username
   limit: 5
 
 author:
