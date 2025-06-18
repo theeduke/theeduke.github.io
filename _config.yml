@@ -64,19 +64,13 @@ remote_feed:
   limit: 5
 
 author:
-  name   : "Ian Nderitu"
+  name   : "Ian Oscar"
   avatar : "/assets/images/bio-photo.jpg"
   # bio    : "Software Engineer. Passionate about solving complex problems and building efficient solutions."
   bio: |
     Software Engineer.
     Passionate about solving complex problems and building efficient solutions.
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theeduke"
@@ -86,21 +80,33 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:oscarian528@gmail.com"
+    # - label: "Website"
+      #   icon: "fas fa-fw fa-link"
+      #   url: "https://"
+    # - label: "Twitter"
+      #   icon: "fab fa-fw fa-twitter-square"
+      #   url: "https://twitter.com/"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theeduke"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/oscar-ian/"
+    # - label: "Twitter"
+      #   icon: "fab fa-fw fa-twitter-square"
+      #   url: "https://twitter.com/"
 
 defaults:
   # # _posts
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "splash"
+      author_profile: true
   # - scope:
   #     path: ""
   #     type: posts
@@ -112,18 +118,6 @@ defaults:
   #     share: true
   #     related: true
   # _pages
-  # - scope:
-  #     path: "_pages"
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "splash"
-      author_profile: true
   - scope:
       path: "_posts"
       type: "posts"
@@ -134,6 +128,12 @@ defaults:
       comments: false
       share: true
       related: true
+  # - scope:
+        # path: "_pages"
+        # type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
 collections:
   projects:
     output: true
