@@ -1,0 +1,17 @@
+.archive__item {
+  .archive__item-teaser {
+    border: 2px solid #ff0080; /* Neon pink from the neon skin */
+    border-radius: 8px;
+    transition: border-color 0.3s ease;
+  }
+  .archive__item-teaser:hover {
+    border-color: #00ffea; /* Neon cyan on hover */
+  }
+  .archive__item-title {
+    color: #fff; /* White text for readability */
+    font-size: 1.2em;
+  }
+  .archive__item-excerpt {
+    color: #ccc; /* Light gray for excerpt */
+  }
+}
