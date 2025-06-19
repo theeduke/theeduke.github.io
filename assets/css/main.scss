@@ -15,3 +15,12 @@
     color: #ccc; /* Light gray for excerpt */
   }
 }
+
+.page__hero_image {
+  max-height: 200px;   /* Set the max height you want */
+  width: 100%;         /* Make it responsive full width */
+  object-fit: cover;   /* Crop image nicely without distortion */
+  overflow: hidden;    /* Hide overflow if any */
+  display: block;      /* Ensure it's displayed properly */
+}
+
