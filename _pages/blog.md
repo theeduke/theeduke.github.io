@@ -10,3 +10,17 @@ My latest thoughts and insights on software development, backend engineering, an
 
 [{{ post.title }}]({{ post.url }}){{ post.date | date: "%B %d, %Y" }}{{ post.excerpt | strip_html | truncatewords: 30 }}{% endfor %}
 
+testing: <pre>{{ site.remote_feed | inspect }}</pre>
+
+
+<ul>
+  {% for post in site.remote_feed.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}" target="_blank">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
