@@ -22,7 +22,7 @@ excerpt: "Junior Software Engineer specializing in backend development and RESTf
 
 # Welcome to My Portfolio
 
-I'm Ian Oscar, a passionate software engineer based in Bungoma, Kenya. With expertise in Python, Django, Flask, and RESTful API development, I build efficient and scalable backend solutions. My experience includes internships at Candlesticks Investments Ltd and Legal Tech Kenya, where I honed my skills in API integration, testing, and technical documentation.
+I'm Ian Oscar, a software engineer based in Nairobi, Kenya. With expertise in Python, Django, Flask, and RESTful API development, I build efficient and scalable backend solutions.
 
 Explore my [projects](/projects/) to see my work, or check out my [GitHub](https://github.com/theeduke) for code contributions.
 
@@ -82,12 +82,9 @@ Certificates available on Credly:
 
 ## 📫 Contact
 
-- 📧 [oscarian528@gmail.com](mailto:oscarian528@gmail.com)  
+- Ready to collaborate? 📧 [Get in touch](mailto:oscarian528@gmail.com).
 - 📞 +254 790078192 / 101738059  
 - 🌍 Nairobi, Kenya  
 - 🌐 [GitHub](https://github.com/theeduke) | [LinkedIn](https://www.linkedin.com/in/oscar-ian/)
-
-
-Ready to collaborate? [Get in touch](mailto:oscarian528@gmail.com).
 
 
