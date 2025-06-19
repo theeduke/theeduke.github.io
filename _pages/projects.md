@@ -1,10 +1,9 @@
 ---
 title: "Projects"
-permalink: /projects/
-layout: archive
-author_profile: true
+layout: collection
 collection: projects
+permalink: /projects/
 entries_layout: grid
 classes: wide
+author_profile: true
 ---
-
