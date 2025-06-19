@@ -24,7 +24,7 @@ excerpt: "Junior Software Engineer specializing in backend development and RESTf
 
 I'm Ian Oscar, a passionate software engineer based in Bungoma, Kenya. With expertise in Python, Django, Flask, and RESTful API development, I build efficient and scalable backend solutions. My experience includes internships at Candlesticks Investments Ltd and Legal Tech Kenya, where I honed my skills in API integration, testing, and technical documentation.
 
-Explore my [projects](/projects/) to see my work, read my [blog](/blog/) for insights on software development, or check out my [GitHub](https://github.com/theeduke) for code contributions.
+Explore my [projects](/projects/) to see my work, or check out my [GitHub](https://github.com/theeduke) for code contributions.
 
 
 
@@ -69,18 +69,14 @@ Key Competencies:
 - HTML5, CSS3, JavaScript ES6  
 - Visual Studio Code  
 
-**Utumishi Boys Academy, Nakuru**  
-*Kenya Certificate of Secondary Education (KCSE)*  
-
-**Christ The King Primary, Bungoma**  
-*Kenya Certificate of Primary Education (KCPE)*  
-
 ---
 
 ## 📜 Certifications
 
 - **Software Engineering Certificate** – ALX_Africa  
-- **Basic JavaScript Certificate** – Apprentice Cloud  
+- **Basic JavaScript Certificate** – Apprentice Cloud
+Certificates available on Credly:
+   https://www.credly.com/users/ian_nderitu  
 
 ---
 
