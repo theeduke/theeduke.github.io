@@ -3,6 +3,7 @@ layout: single
 title: "Lab Challenge: Linux Fundamentals – Hack The Box Academy"
 permalink: /labs/linux-fundamentals/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: Linux Fundamentals – Hack The Box Academy
