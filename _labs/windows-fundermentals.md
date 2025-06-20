@@ -3,6 +3,7 @@ layout: single
 title: "Lab Challenge: Windows Fundamentals – Hack The Box Academy"
 permalink: /labs/windows-fundamentals/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: Windows Fundamentals – Hack The Box Academy
