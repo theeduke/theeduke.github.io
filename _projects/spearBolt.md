@@ -24,7 +24,7 @@ An  online store where customers can interact with goods posted by merchant and 
 **Contributions**: Developed backend APIs and integrated payment system.  
 **Links**:  
 - [GitHub](https://github.com/theeduke/e_commerce)
-<!-- - [Live Demo](https://example.com/carpooling) *(replace with actual link if available)*  -->
+<!-- [Live Demo](https://example.com/carpooling) -->
 
 ## Key Features
 - **Secure Authentication**: Implemented JWT-based authentication for session auth, email verification & csrf policies.
