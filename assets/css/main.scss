@@ -16,18 +16,30 @@
   }
 }
 
-.custom-hero .page_hero-image {
-  max-height: 100px !important;
+.page__hero--overlay {
+  height: 100px !important;
+}
+
+.page_hero-image {
+  max-height: 90px !important;
   width: 100% !important;
   object-fit: cover !important;
   overflow: hidden !important;
   display: block !important;
 }
 
-.custom-hero .page__hero {
-  max-height: 250px !important;
-  overflow: hidden !important;
-}
+// .custom-hero .page_hero-image {
+//   max-height: 100px !important;
+//   width: 100% !important;
+//   object-fit: cover !important;
+//   overflow: hidden !important;
+//   display: block !important;
+// }
+
+// .custom-hero .page__hero {
+//   max-height: 250px !important;
+//   overflow: hidden !important;
+// }
 
 // .page_hero-image {
 //   max-height: 150px;   /* Set the max height you want */
