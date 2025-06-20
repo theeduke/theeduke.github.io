@@ -3,6 +3,7 @@ title: "Lab Challenge: DNS in Detail – TryHackMe"
 layout: single
 permalink: /labs/dns-in-detail/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: DNS in Detail – TryHackMe
