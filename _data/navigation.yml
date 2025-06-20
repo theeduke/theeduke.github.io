@@ -1,11 +1,12 @@
 main:
   - title: "Home"
     url: "/"
-  # - title: "About"
-  #   url: "/about/"
   - title: "Labs"
     url: "/labs/"
   - title: "Projects"
     url: "/projects/"
+    
+  # - title: "About"
+  #   url: "/about/"
   # - title: "Blog"
   #   url: "/blog/"
