@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Lab Challenge: Passive Reconnaissance – Hack The Box Academy"
+title: "Lab Challenge: Passive Reconnaissance – TryHackMe"
 permalink: /labs/passive-reconnaissance/
 author_profile: true
 ---
 
-## 🧪 Lab Challenge: Passive Reconnaissance – Hack The Box Academy
+## 🧪 Lab Challenge: Passive Reconnaissance – TryHackMe
 
 **Problem Statement:**  
 The objective was to complete the Passive Reconnaissance module, focusing on gathering publicly available information about a target without direct interaction. This involved using command-line tools (`whois`, `nslookup`, `dig`) and online services (DNSDumpster, Shodan.io) to collect domain, DNS, and server information, and answering specific questions to demonstrate proficiency.
@@ -33,10 +33,6 @@ The objective was to complete the Passive Reconnaissance module, focusing on gat
 - Google DNS: `8.8.8.8`  
 - Quad9 DNS: `9.9.9.9`  
 
-**Screenshots:**  
-![DNS Output](assets/images/passive_recon_dns.png)  
-![Shodan Search](assets/images/passive_recon_shodan.png)
-
 **Key Lessons Learned:**  
 - **Passive Reconnaissance Power:** You can gain a wealth of information without touching the target's infrastructure.  
 - **Tool Specificity:** `whois` is best for registrar/domain data; `dig`/`nslookup` are better for DNS records.  
@@ -45,5 +41,3 @@ The objective was to complete the Passive Reconnaissance module, focusing on gat
 - **Global Context Matters:** Shodan provided useful insight into service popularity by country and common open ports.  
 - **Low Detection Risk:** Passive methods are stealthy and ideal for initial recon phases before active engagement.
 
-**Platform Link:**  
-[HTB Passive Reconnaissance Module](https://academy.hackthebox.com/)
