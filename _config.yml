@@ -138,6 +138,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  labs:
+    output: true
+    permalink: /:collection/:path/
 
 # category_archive:
 #   type: liquid
