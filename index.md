@@ -32,14 +32,14 @@ Explore my [projects](/projects/) to see my work, or check out my [GitHub](https
 
 ## 💼 Experience
 
-*Candlesticks Investments Ltd* 
+*Candlesticks Investments Ltd*  
 **Software Development Intern**
 _April 2024 – Nov 2024_  
 - RESTful API testing and debugging  
 - Technical documentation  
 - Backend development and integration  
 
-*Legal Tech Kenya, Nairobi*
+*Legal Tech Kenya, Nairobi* 
 **Junior Software Developer** 
 _January 2024 – March 2024_  
 - Testing and debugging  
