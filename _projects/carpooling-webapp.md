@@ -24,24 +24,11 @@ A web application for ride-sharing in Nairobi, featuring secure authentication, 
 **Contributions**: Developed backend APIs, implemented route optimization, and integrated payment systems.  
 **Links**:  
 - [GitHub](https://github.com/theeduke/carpooling-webapp)  
-- [Live Demo](https://example.com/carpooling) *(replace with actual link if available)*  
+<!-- - [Live Demo](https://example.com/carpooling) *(replace with actual link if available)*  -->
 
 ## Key Features
-- **Secure Authentication**: Implemented JWT-based authentication for user login.
+- **Secure Authentication**: Implemented JWT-based authentication for session auth, email verification & csrf policies.
 - **Real-Time Ride Search**: Integrated Google Maps API for location-based ride matching.
 - **In-App Payments**: Added Stripe for secure payment processing.
 
-## Code Snippet
-Example of a Django view for ride search:
-```python
-from rest_framework.views import APIView
-from rest_framework.response import Response
-from .models import Ride
-from .serializers import RideSerializer
 
-class RideSearchView(APIView):
-    def get(self, request):
-        location = request.query_params.get('location')
-        rides = Ride.objects.filter(start_location__near=location)
-        serializer = RideSerializer(rides, many=True)
-        return Response(serializer.data)
