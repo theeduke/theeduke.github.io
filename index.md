@@ -23,7 +23,7 @@ excerpt: "Junior Software Engineer specializing in backend development and RESTf
 
 # Welcome to My Portfolio
 
-I'm Ian Oscar 👋🏼, a software engineer based in Nairobi, Kenya. With expertise in Python, Django, Flask, and RESTful API development, I build efficient and scalable backend solutions.
+Hi 👋🏼, I'm a software engineer based in Nairobi, Kenya. With expertise in Python, Django, Flask, and RESTful API development, I build efficient and scalable backend solutions.
 
 Explore my [projects](/projects/) to see my work, or check out my [GitHub](https://github.com/theeduke) for code contributions.
 
