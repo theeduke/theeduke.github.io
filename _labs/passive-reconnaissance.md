@@ -3,6 +3,7 @@ layout: single
 title: "Lab Challenge: Passive Reconnaissance – TryHackMe"
 permalink: /labs/passive-reconnaissance/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: Passive Reconnaissance – TryHackMe
