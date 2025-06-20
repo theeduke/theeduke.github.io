@@ -25,14 +25,9 @@ Understand how to interact with, secure, and manage Windows operating systems, s
 - MMC, Task Manager  
 - Windows Security Tools & WMI queries
 
-**Screenshots:**  
-![Module Completion](assets/images/windows_module_complete.png)
 
 **Key Lessons Learned:**  
 - **Remote access must be secured**: Tools like RDP offer power but also open doors for attackers.  
 - **Permissions hierarchy is complex but critical**: Misunderstanding NTFS and Share Permissions can expose sensitive files.  
 - **WMI and PowerShell are essential tools** for automation, monitoring, and incident response in Windows environments.  
 - **Windows isn't just a GUI**: The command line is powerful and necessary for deep system interactions.
-
-**Platform Link:**  
-[HTB Windows Fundamentals Module](https://academy.hackthebox.com/achievement/1920307/49)
