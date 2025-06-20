@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Lab Challenge: Python Basics – Hack The Box Academy"
+title: "Lab Challenge: Python Basics – TryHackMe"
 permalink: /labs/python-basics/
 author_profile: true
 ---
 
-## 🧪 Lab Challenge: Python Basics – Hack The Box Academy
+## 🧪 Lab Challenge: Python Basics – TryHackMe
 
 **Problem Statement:**  
 The Python Basics module aimed to teach fundamental programming concepts using Python, including variables, loops, functions, data structures, if statements, and file operations. The objective was to write Python scripts to perform tasks like printing outputs, performing mathematical operations, handling conditional logic, iterating with loops, defining functions, and reading files, while retrieving flags as proof of task completion.
@@ -28,9 +28,6 @@ The Python Basics module aimed to teach fundamental programming concepts using P
   - `datetime`: For date/time operations  
   - Mentioned: `requests`, `scapy`, `pwntools` (common in pentesting)
 
-**Screenshots:**  
-![Python Output](assets/images/python_basics_output.png)  
-![Flag Retrieved](assets/images/python_basics_flag.png)
 
 **Key Lessons Learned:**  
 - **Fundamental Syntax:** Mastering `print()`, variables, and arithmetic is the foundation of scripting.  
@@ -41,5 +38,3 @@ The Python Basics module aimed to teach fundamental programming concepts using P
 - **Cybersecurity Relevance:** Python’s flexibility and libraries make it a core skill in the pentester’s toolkit.  
 - **Attention to Detail:** Even small syntax errors or overlooked typos can block progress—precision matters.
 
-**Platform Link:**  
-[HTB Python Basics Module](https://academy.hackthebox.com/)
