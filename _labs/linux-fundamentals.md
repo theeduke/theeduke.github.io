@@ -25,8 +25,6 @@ Learn how to interact with and navigate Linux systems from the command line, inc
 - Package managers (`apt`, `yum`, `dnf`)  
 - System tools (`ps`, `top`, `systemctl`)
 
-**Screenshots:**  
-![Module Completion](assets/images/linux_module_complete.png)
 
 **Key Lessons Learned:**  
 - **Linux is structured but powerful**: Mastering the command line unlocks almost everything in Linux.  
@@ -34,5 +32,3 @@ Learn how to interact with and navigate Linux systems from the command line, inc
 - **Package managers simplify software handling**: but knowing what happens under the hood is vital for secure and efficient system administration.  
 - **User permissions and groups are central** to security and must be configured properly to avoid privilege misuse.
 
-**Platform Link:**  
-[HTB Linux Fundamentals Module](https://academy.hackthebox.com/achievement/1920307/18)
