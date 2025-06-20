@@ -77,7 +77,7 @@ Key Competencies:
 
 - **Software Engineering Certificate** – ALX_Africa  
 - **Basic JavaScript Certificate** – Apprentice Cloud
-- **Other Certificates available on Credly:
+- Other Certificates available on **Credly**:
    https://www.credly.com/users/ian_nderitu  
 
 ---
