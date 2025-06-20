@@ -86,7 +86,6 @@ header:
 
 ## 📂 Source & Demo
 
-> *(Add these if applicable)*  
 - 🔗 **GitHub:** (https://github.com/Python-on-my-backend/webSecurity)
 <!-- - 🌐 **Live Demo:** [yourdomain.com/easydoc](https://yourdomain.com/easydoc) -->
 
