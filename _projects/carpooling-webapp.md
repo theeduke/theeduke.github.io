@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 excerpt: "A web application for ride-sharing in Nairobi, built with React, Django, and Google Maps API."
 header:
-  image: /assets/images/carpooling-thumbnail.jpg
+  image: /assets/images/carpooling/carpoolimage.png
   teaser: /assets/images/carpooling-teaser.jpg
 classes: wide
 gallery:
