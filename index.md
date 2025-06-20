@@ -16,7 +16,7 @@ header:
       url: "/projects/"
     - label: "Connect on LinkedIn"
       url: "https://www.linkedin.com/in/oscar-ian/"
-excerpt: "Junior Software Engineer specializing in backend development and RESTful APIs."
+excerpt: "Software Engineer specializing in backend development and RESTful APIs."
 ---
 
 
