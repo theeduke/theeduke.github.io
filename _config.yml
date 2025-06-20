@@ -16,9 +16,8 @@
 title: Oscar Portfolio
 email: oscarian528@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ian Oscar is a Software Engineer specializing in backend development, RESTful APIs, Python, Django, Flask, and DevOps. 
+  Explore his portfolio, experience, and certifications in software engineering and AI integration.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
@@ -70,7 +69,7 @@ author:
   # bio    : "Software Engineer. Passionate about solving complex problems and building efficient solutions."
   bio: |
     Software Engineer.
-    Passionate about solving complex problems and building efficient solutions.
+    Building resilient backend systems with clean code, curiosity, and purpose.
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
