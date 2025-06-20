@@ -39,7 +39,7 @@ _April 2024 – Nov 2024_
 - Technical documentation  
 - Backend development and integration  
 
-*Legal Tech Kenya, Nairobi* 
+*Legal Tech Kenya, Nairobi*  
 **Junior Software Developer** 
 _January 2024 – March 2024_  
 - Testing and debugging  
