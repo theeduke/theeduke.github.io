@@ -5,6 +5,7 @@
 layout: splash
 author_profile: true
 title: Home
+subtitle: "Backend Developer | Problem Solver | Software Engineer"
 permalink: /
 header:
   overlay_color: "#000"
