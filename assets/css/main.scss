@@ -16,11 +16,23 @@
   }
 }
 
+// .page_hero-image {
+//   max-height: 150px;   /* Set the max height you want */
+//   width: 100%;         /* Make it responsive full width */
+//   object-fit: cover;   /* Crop image nicely without distortion */
+//   overflow: hidden;    /* Hide overflow if any */
+//   display: block;      /* Ensure it's displayed properly */
+// }
 .page_hero-image {
-  max-height: 150px;   /* Set the max height you want */
-  width: 100%;         /* Make it responsive full width */
-  object-fit: cover;   /* Crop image nicely without distortion */
-  overflow: hidden;    /* Hide overflow if any */
-  display: block;      /* Ensure it's displayed properly */
+  max-height: 200px;
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  display: block;
+}
+
+.page__hero {
+  max-height: 250px;
+  overflow: hidden;
 }
 
