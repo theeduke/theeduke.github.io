@@ -34,9 +34,6 @@ The task was to complete the "Getting Started" module on HackTheBox, focusing on
 - **File Transfer:** `wget`, `curl`, `scp`, Base64, Python HTTP server  
 - **Privilege Escalation:** LinEnum, `sudo`, SSH keys, kernel CVEs
 
-**Screenshots:**  
-![Foothold Established](assets/images/getting_started_foothold.png)  
-![Root Flag Retrieved](assets/images/getting_started_root.png)
 
 **Key Lessons Learned:**  
 - **Organization Enhances Efficiency:** Structured notes and templates reduce errors and improve workflow.  
@@ -46,6 +43,3 @@ The task was to complete the "Getting Started" module on HackTheBox, focusing on
 - **Privilege Escalation Strategies:** Combining manual review with automated tools boosts chances of success.  
 - **File Transfer Security:** Integrity checks like `md5sum` ensure files aren't corrupted or tampered.  
 - **Hands-On Practice:** Completing real-world labs bridges theory with application, strengthening skills and confidence.
-
-**Platform Link:**  
-[Hack The Box Academy - Getting Started](https://academy.hackthebox.com/)
