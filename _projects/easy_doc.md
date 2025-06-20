@@ -8,7 +8,7 @@ share: true
 related: true
 permalink: /projects/easydoc/
 header:
-  image: /assets/images/lunch-app-thumbnail.jpg
+  image: /assets/images/easy_doc/easydoc.jpg
   teaser: /assets/images/easy_doc/easydoc.jpg
 ---
 
