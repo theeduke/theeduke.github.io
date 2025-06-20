@@ -3,6 +3,7 @@ layout: single
 title: "Lab Challenge: Web Applications – Hack The Box Academy"
 permalink: /labs/web-applications/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: Web Applications – Hack The Box Academy
