@@ -8,7 +8,7 @@ excerpt: "A web application for ride-sharing in Nairobi, built with React, Djang
 header:
   image: /assets/images/carpooling/carpoolimage.png
   teaser: /assets/images/carpooling/carpoolimage.png
-classes: wide
+classes: wide custom-hero
 ---
 
 ## Overview
