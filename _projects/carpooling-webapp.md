@@ -3,6 +3,7 @@ title: "Carpooling Webapp"
 permalink: /projects/carpooling-webapp/
 layout: single
 author_profile: true
+read_time: true
 excerpt: "A web application for ride-sharing in Nairobi, built with React, Django, and Google Maps API."
 header:
   image: /assets/images/carpooling/carpoolimage.png
