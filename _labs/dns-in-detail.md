@@ -1,11 +1,11 @@
 ---
-title: "Lab Challenge: DNS in Detail – Hack The Box Academy"
+title: "Lab Challenge: DNS in Detail – TryHackMe"
 layout: single
 permalink: /labs/dns-in-detail/
 author_profile: true
 ---
 
-## 🧪 Lab Challenge: DNS in Detail – Hack The Box Academy
+## 🧪 Lab Challenge: DNS in Detail – TryHackMe
 
 **Problem Statement:**  
 The DNS in Detail module focused on understanding the Domain Name System (DNS), its hierarchy, record types, and request process. The objective was to explore DNS concepts, use the `nslookup` command to query DNS records (A, CNAME, MX, TXT), and answer questions to demonstrate proficiency, retrieving flags and specific values as proof of completion.
@@ -35,10 +35,6 @@ The DNS in Detail module focused on understanding the Domain Name System (DNS), 
 - **Environment:**  
   - Linux terminal for running queries and validating output
 
-**Screenshots:**  
-![nslookup CNAME](assets/images/dns_cname_query.png)  
-![TXT Flag Result](assets/images/dns_txt_flag.png)
-
 **Key Lessons Learned:**  
 - **DNS Hierarchy Clarity:** Understanding domain structure (root → TLD → SLD) helps in mapping internet resources accurately.  
 - **Record Type Versatility:** Each record serves a specialized purpose in routing, hosting, or metadata representation.  
@@ -47,5 +43,3 @@ The DNS in Detail module focused on understanding the Domain Name System (DNS), 
 - **Attention to Detail:** Interpreting fields like MX priority and TXT values requires careful review of raw outputs.  
 - **Internet Fundamentals:** DNS is foundational to almost all internet communication, and its enumeration is key in cybersecurity reconnaissance.
 
-**Platform Link:**  
-[HTB DNS in Detail Module](https://academy.hackthebox.com/)
