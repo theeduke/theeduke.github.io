@@ -24,8 +24,6 @@ Understand and exploit the structural and security elements of modern web applic
 - Public CVE directories (e.g. NIST)  
 - Web-based emulators
 
-**Screenshots:**  
-![Module Completion](assets/images/webapp_module_complete.png)
 
 **Key Lessons Learned:**  
 - **Web apps are multilayered**: Understanding both frontend and backend components is essential for holistic security.  
@@ -33,5 +31,3 @@ Understand and exploit the structural and security elements of modern web applic
 - **Session and token vulnerabilities**: CSRF and XSS can manipulate authenticated sessions if CSRF tokens and validation aren't enforced.  
 - **Real-world examples matter**: Understanding CVEs like Shellshock demonstrates how misconfigurations become exploits.
 
-**Platform Link:**  
-[HTB Web Applications Module](https://academy.hackthebox.com/achievement/1920307/75)
