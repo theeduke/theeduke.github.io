@@ -1,5 +1,5 @@
 ---
-title: "E-commerce"
+title: "SpearBolt"
 permalink: /projects/e-commerce/
 layout: single
 author_profile: true
