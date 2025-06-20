@@ -3,6 +3,7 @@ layout: single
 title: "Lab Challenge: Getting Started – Hack The Box Academy"
 permalink: /labs/getting-started/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: Getting Started – Hack The Box Academy
