@@ -3,6 +3,7 @@ title: "SpearBolt"
 permalink: /projects/e-commerce/
 layout: single
 author_profile: true
+read_time: true
 excerpt: "An online store built with React and Django."
 header:
   image: /assets/images/ecomm/commerce.jpg
