@@ -3,6 +3,7 @@ layout: single
 title: "Lab Challenge: Python Basics – TryHackMe"
 permalink: /labs/python-basics/
 author_profile: true
+read_time: true
 ---
 
 ## 🧪 Lab Challenge: Python Basics – TryHackMe
