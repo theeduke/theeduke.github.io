@@ -66,10 +66,7 @@ remote_feed:
 
 author:
   name   : "Ian Oscar"
-  # avatar : "/assets/images/bio-photo.jpg"
   avatar : "/assets/images/portfolio3cc.jpg"
-  # avatar : "/assets/images/profile-photo.jpg"
-  # bio    : "Software Engineer. Passionate about solving complex problems and building efficient solutions."
   bio: |
     Software Engineer.
     Building resilient backend systems with clean code, curiosity, and purpose.
