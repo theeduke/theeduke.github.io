@@ -4,13 +4,13 @@ excerpt: "A secure Django web app for patient appointments, user registration wi
 layout: single
 author_profile: true
 read_time: true
-<!--share: false  to add sharing to linkedin, x, bluesky, e.t.c -->
 related: true
 permalink: /projects/easydoc/
 header:
   image: /assets/images/easy_doc/easydoc.jpg
   teaser: /assets/images/easy_doc/easydoc.jpg
 ---
+<!--share: true  to add sharing to linkedin, x, bluesky, e.t.c -->
 
 ## 📝 Project Overview
 
