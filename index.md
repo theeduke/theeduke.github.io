@@ -32,7 +32,7 @@ Explore my [projects](/projects/) to see my work, or check out my [GitHub](https
 
 ## 💼 Experience
 
-*Candlesticks Investments Ltd*  
+*Cuea Innovation HUB*  
 **Software Development Intern**  
 _April 2024 – Nov 2024_  
 - RESTful API testing and debugging  
